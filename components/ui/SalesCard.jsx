@@ -9,7 +9,7 @@ export default function SalesCard(props) {
 
   return (
     <div className="flex flex-wrap justify-between gap-3">
-      <section className="justify-between gap-3">
+      <section className="flex justify-between gap-3">
         <div className="h-12 w-12 rounded-full bg-gray-100 p-1">
           <img
             width={200}
